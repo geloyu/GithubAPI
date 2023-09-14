@@ -8,6 +8,7 @@ class GithubApiApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("dsa")
 	}
 
 }
